@@ -52,7 +52,7 @@ A program for converting TIFF files to PDF files.
 
 ## How to Use
 
-1. Run the script tifftopdf.py.
+1. Run the script `tiff_to_pdf.py`.
 
 2. A window will appear asking you how you want to select the folder.
 
